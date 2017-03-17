@@ -1,3 +1,3 @@
-Download a tar.gz of a random 10MiB file.
+Download a tar.gz of a random 100MiB file.
 Download file from "releases" on github.
 
